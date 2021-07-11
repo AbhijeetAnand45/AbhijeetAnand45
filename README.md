@@ -1,11 +1,12 @@
-- 👋 Hi, I’m Abhijeet Anand 
-- 👀 I’m interested in competitive programming and web Development.
-- 🌱 I’m currently learning the front End technology and I’m looking to Improve Myself💞️ as much as better.
--  
-- 📫 You can reach me by just clicking here ⏬
-- 
-- Twitter : https://twitter.com/RealAbhijeet21
+##  Hi, I’m Abhijeet Anand 👋
 
-<!---
-  Note : 💬 Text me on twitter to contact me.
---->
+- A computer Science UnderGrad at NIT Manipur.
+- I’m Exploring My Knowledge in Web Development 🕸.
+- Javascript Lover 📚
+- Competitive Programmer 💻.
+- You can ask any Query related to Data Structures , Algorithms , Javascript , Web Development !
+ 
+- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/abhijeetanand21/) 
+
+
+
