@@ -1,10 +1,9 @@
 <!-- ##  Hi, I’m Abhijeet Anand 👋
 
-- A computer Science UnderGrad at NIT Manipur.
-- I’m Exploring My Knowledge in Web Development 🕸.
-- Javascript Lover 📚
-- Competitive Programmer 💻.
-- You can ask any Query related to Data Structures , Algorithms , Javascript , Web Development !
+- I'm software Engineer, who loves to solve problems with code.
+- I’m Exploring various tech domains, specially Backend development and frameworks.
+- Loves to Design and Code.
+- You can ask any query related to Software Engineering, I would to answer or know (In case if i don't know) !
  
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/abhijeetanand21/) 
  -->
@@ -19,12 +18,14 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/AbhijeetAnand45/AbhijeetAnand45/blob/master/image.gif">
 </a>
 
-- 🔭 I’m currently working on **Web Development**
-- 🌱 I’m currently learning **Web Developement and Competitive Programming**
-- 👯 I’m looking to collaborate on **Web Developement Projects**
-- 🤔 I’m looking for help with **Internships**
-- 💬 Ask me about Anything [here](mailto:aabhijeet011@gmail.com)! I am happy to help.
-- 😄 Pronouns : **He/Him/His**
+- Hi, I’m Abhijeet Anand 👋
+- I'm software Engineer, who loves to solve problems with code.
+- I’m Exploring various tech domains, specially Backend development and frameworks(An enthusiast full stack developer).
+- Love to Design and Code.
+- You can ask any query related to Software Engineering, I would to answer or know (In case if i don't know) !
+ 
+- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/abhijeetanand21/) 
+ - 😄 Pronouns : **He/Him/His**
 - ⚡ Fun fact : **I love to write in my free time..✍**
 <br />
 <br />
@@ -47,7 +48,7 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 </p>
 
-<h4 align="center">Web Development</h4>
+<h4 align="center">Full Stack Development</h4>
 <p align="center">
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
