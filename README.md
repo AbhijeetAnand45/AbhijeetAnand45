@@ -1,9 +1,9 @@
 <!-- ##  Hi, I’m Abhijeet Anand 👋
 
-- I'm software Engineer, who loves to solve problems with code.
-- I’m Exploring various tech domains, specially Backend development and frameworks.
+- I'm software Engineer, who Loves to Design and Code.
+- I’m Exploring various tech domains in my current role, specially involved with Backend development and frameworks.
 - Loves to Design and Code.
-- You can ask any query related to Software Engineering, I would to answer or know (In case if i don't know) !
+- You can ask me any query related to Software Development, I would love to answer or get to know !
  
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/abhijeetanand21/) 
  -->
@@ -19,10 +19,9 @@
 </a>
 
 - Hi, I’m Abhijeet Anand 👋
-- I'm software Engineer, who loves to solve problems with code.
-- I’m Exploring various tech domains, specially Backend development and frameworks(An enthusiast full stack developer).
-- Love to Design and Code.
-- You can ask any query related to Software Engineering, I would to answer or know (In case if i don't know) !
+- I'm software Engineer, who Loves to Design and Code.
+- I’m Exploring various tech domains in my current role, specially involved with Backend development and frameworks.
+- You can ask me any query related to Software Development, I would love to answer or get to know !
  
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/abhijeetanand21/) 
  - 😄 Pronouns : **He/Him/His**
@@ -33,22 +32,21 @@
 <p align="center">
 <a href="https://twitter.com//AbhijeetAnand45" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="/AbhijeetAnand45" height="30" width="40"/></a>
 <a href="https://linkedin.com/in//abhijeetanand45" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="/abhijeetanand45" height="30" width="40" /></a>
-<a href="https://fb.com//AbhijeetAnand45" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="/AbhijeetAnand45" height="30" width="40" /></a>
+<!-- <a href="https://fb.com//AbhijeetAnand45" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="/AbhijeetAnand45" height="30" width="40" /></a> -->
 <a href="https://instagram.com//abhijeetanand457/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="/abhijeetanand457/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abhijeetanand45" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="abhijeetanand45" height="30" width="40" /></a>
 </p>
 <br />
-<h2 align="center">Languages and Tools:</h2>
+<h2 align="center">My Tech Domains & Specialization</h2>
 <h4 align="center">Programming languages:</h4>
 <p align="center">
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
-<h4 align="center">Full Stack Development</h4>
+<h4 align="center">Development Frameworks</h4>
 <p align="center">
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
@@ -59,13 +57,6 @@
 <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
-<!-- <h4 align="center">Machine Learning</h4>
-<p align="center">
-<a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-<a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-</p> -->
 <h4 align="center">Something more...</h4>
 <p align="center">
  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
@@ -76,7 +67,7 @@
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
-
+<!--
 #
 
 <details open="">
@@ -100,7 +91,9 @@
 </details>
 
 #
+-->
 
+<!--
 <br />
 <br />
 
@@ -110,11 +103,7 @@
     <img alt="Github Arctic Vault Contributor" src = "https://github.com/JayantGoel001/JayantGoel001/blob/master/arctic.gif" width="100px" height="100px">
   </a>
 </p>
+-->
 <br />
 <h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
-
 #
-
-
-
-
