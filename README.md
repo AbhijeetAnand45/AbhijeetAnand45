@@ -1,16 +1,7 @@
-<!-- ##  Hi, I’m Abhijeet Anand 👋
-
-- I'm software Engineer, who Loves to Design and Code.
-- I’m Exploring various tech domains in my current role, specially involved with Backend development and frameworks.
-- Loves to Design and Code.
-- You can ask me any query related to Software Development, I would love to answer or get to know !
- 
-- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/abhijeetanand21/) 
- -->
  
 ![](https://github.com/AbhijeetAnand45/AbhijeetAnand45/blob/main/banner.png)
 
-v<h1 align="center">Hi 👋, I'm Abhijeet...</h1>
+<h1 align="center">Hi 👋, I'm Abhijeet...</h1>
 <h3 align="center">Building My Career With Code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhijeetAnand45&label=Profile%20views&color=0e75b6&style=flat" alt="AbhijeetAnand45" /> </p>
@@ -18,27 +9,17 @@ v<h1 align="center">Hi 👋, I'm Abhijeet...</h1>
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/AbhijeetAnand45/AbhijeetAnand45/blob/master/image.gif">
 </a>
 
-- Hi, I’m Abhijeet Anand 👋
-- I'm software Engineer, who Loves to Design and Code.
-- I’m Exploring arious tech domains in my current role, specially involved with Backend development and frameworks.
-- You can ask me any query related to Software Development, I would love to answer or get to know !
+Hi, I’m  👋
+- A Software Engineer turned Banker who enjoys transforming ideas into code.
+- Exploring modern tech stacks with a keen interest in backend engineering, scalable systems, and development frameworks.
+- Open to discussions on software development, coding, system design, and emerging technologies. Let's connect and learn together!
  
-- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/abhijeetanand21/) 
- - 😄 Pronouns : **He/Him/His**
-- ⚡ Fun fact : **I love to write in my free time..✍**
+- 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/abhijeetanand45/)
+- 😄 Pronouns : **He/Him/His**
+- ⚡ Fun fact : **I enjoy writing, learning, and sharing knowledge beyond the world of code.✍**
 <br />
 <br />
 
-
-
-<h2 align="center">Connect with me:</h2>
-<p align="center">
-<a href="https://twitter.com//mera_vichaar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="/AbhijeetAnand45" height="30" width="40"/></a>
-<a href="https://linkedin.com/in//abhijeetanand45" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="/abhijeetanand45" height="30" width="40" /></a>
-<a href="https://instagram.com//abhijeetanand457/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="/abhijeetanand457/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abhijeetanand45" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="abhijeetanand45" height="30" width="40" /></a>
-</p>
-<br />
 <h2 align="center">My Tech Domains & Specialization</h2>
 <h4 align="center">Programming languages:</h4>
 <p align="center">
@@ -69,43 +50,14 @@ v<h1 align="center">Hi 👋, I'm Abhijeet...</h1>
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
-<!--
-#
-
-<details open="">
-<summary align="center">
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>Github Stats : </strong>
-  </summary>
-<br>
-
-
-<p align="center">
-  <a href="https://github.com/AbhijeetAnand45">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AbhijeetAnand45&show_icons=true&locale=en&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true" alt="AbhijeetAnand45" />
-  </a>
-  <br />
-  <br />
-  <a href="https://github.com/AbhijeetAnand45">
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijeetAnand45&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-  </a>
-</p>
-</details>
-
-#
--->
-
-<!--
-<br />
 <br />
 
-
+<h2 align="center">Connect with me:</h2>
 <p align="center">
-  <a href="https://archiveprogram.github.com/">
-    <img alt="Github Arctic Vault Contributor" src = "https://github.com/JayantGoel001/JayantGoel001/blob/master/arctic.gif" width="100px" height="100px">
-  </a>
+<a href="https://twitter.com//mera_vichaar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="/AbhijeetAnand45" height="30" width="40"/></a>
+<a href="https://linkedin.com/in//abhijeetanand45" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="/abhijeetanand45" height="30" width="40" /></a>
+<a href="https://instagram.com//abhijeetanand457/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="/abhijeetanand457/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/abhijeetanand45" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="abhijeetanand45" height="30" width="40" /></a>
 </p>
--->
 <br />
 <h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
-#
