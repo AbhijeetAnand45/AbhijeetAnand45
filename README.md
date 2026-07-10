@@ -7,10 +7,10 @@
  
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/abhijeetanand21/) 
  -->
-
+<!--
 ![](https://github.com/AbhijeetAnand45/AbhijeetAnand45/blob/main/banner.png)
 
-<h1 align="center">Hi 👋, I'm Abhijeet...</h1>
+v<h1 align="center">Hi 👋, I'm Abhijeet...</h1>
 <h3 align="center">Building My Career With Code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhijeetAnand45&label=Profile%20views&color=0e75b6&style=flat" alt="AbhijeetAnand45" /> </p>
@@ -20,7 +20,7 @@
 
 - Hi, I’m Abhijeet Anand 👋
 - I'm software Engineer, who Loves to Design and Code.
-- I’m Exploring various tech domains in my current role, specially involved with Backend development and frameworks.
+- I’m Exploring arious tech domains in my current role, specially involved with Backend development and frameworks.
 - You can ask me any query related to Software Development, I would love to answer or get to know !
  
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/abhijeetanand21/) 
@@ -28,11 +28,15 @@
 - ⚡ Fun fact : **I love to write in my free time..✍**
 <br />
 <br />
+-->
+
+
+<p align="center"> <img src="https://github.com/AbhijeetAnand45/AbhijeetAnand45/blob/main/banner.png" alt="Banner"> </p> <h1 align="center">Hi 👋, I'm Abhijeet Anand</h1> <h3 align="center">Specialist Officer (IT) @ State Bank of India | Java Backend Developer | Full-Stack Enthusiast</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhijeetAnand45&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p> <img align="right" height="250" width="400" src="https://github.com/AbhijeetAnand45/AbhijeetAnand45/blob/master/image.gif" alt="Coding GIF"/> ## 👨‍💻 About Me - 👋 Hi, I'm **Abhijeet Anand** - 💼 Currently working as a **Specialist Officer (IT)** at **State Bank of India** - ☕ Passionate about building scalable backend applications using **Java** and **Spring Boot** - 🌐 Interested in **Full-Stack Development**, REST APIs, System Design, and Cloud Technologies - 🚀 Always exploring new technologies and continuously improving my problem-solving skills - 💡 I enjoy transforming ideas into practical, efficient software solutions - 🤝 Open to collaborating on interesting software and open-source projects ## 📫 Connect With Me - 💼 LinkedIn: https://www.linkedin.com/in/abhijeetanand21/ ## 🌱 Currently Learning - Advanced Spring Boot - Microservices Architecture - System Design - Cloud & DevOps - Distributed Systems ## 💬 Ask Me About - Java - Spring Boot - REST APIs - SQL - Git & GitHub - Backend Development - Full-Stack Development ## ⚡ Fun Fact > I enjoy writing blogs, exploring new technologies, and turning coffee into clean code. ✍️☕ --- <p align="center"> <i>"Code. Learn. Build. Repeat."</i> 🚀 </p>
+
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-<a href="https://twitter.com//AbhijeetAnand45" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="/AbhijeetAnand45" height="30" width="40"/></a>
+<a href="https://twitter.com//mera_vichaar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="/AbhijeetAnand45" height="30" width="40"/></a>
 <a href="https://linkedin.com/in//abhijeetanand45" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="/abhijeetanand45" height="30" width="40" /></a>
-<!-- <a href="https://fb.com//AbhijeetAnand45" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="/AbhijeetAnand45" height="30" width="40" /></a> -->
 <a href="https://instagram.com//abhijeetanand457/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="/abhijeetanand457/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abhijeetanand45" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="abhijeetanand45" height="30" width="40" /></a>
 </p>
